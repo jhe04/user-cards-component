@@ -263,3 +263,16 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+button {
+  background-color: peachpuff;
+  border: 1px solid rgba(0, 0, 0, 0.096);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-out;
+}
+
+button:active,
+button:focus {
+  background-color: rgb(248, 190, 140);
+}
