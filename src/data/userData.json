@@ -1,0 +1,16 @@
+{
+  "conversations": [
+    {
+      "conversation_id": "bb074637-b001-4bdf-87fe-7693e5141af8",
+      "sender_id": "381242f2-5415-4414-9475-e354e3fd20da",
+      "sender_name": "Andrea",
+      "sender_online": true
+    },
+    {
+      "conversation_id": "b5f81b93-33d1-4b1f-b1d2-40be4a82acae",
+      "sender_id": "40a35f3c-e11e-4b99-b209-722b449e664d",
+      "sender_name": "Matthew",
+      "sender_online": false
+    }
+  ]
+}
